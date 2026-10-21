@@ -2,6 +2,11 @@
 
 An interactive React UML class diagram editor with Java source generation.
 
+#Screenshot
+![Uploading image.png…]()
+
+
+
 ## Run
 
 Requires Node.js 20 or later.
